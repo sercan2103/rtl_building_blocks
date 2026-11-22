@@ -1,0 +1,8 @@
+# cocotb / icarus çıktıları
+sim_build/
+results.xml
+*.vcd
+*.fst
+
+# Python
+__pycache__/
